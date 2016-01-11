@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'quadric:easy-elasticsearch',
+  name: 'awans:easy-elasticsearch',
   summary: "Elasticsearch Engine for EasySearch",
   version: "1.0.0",
   git: "https://github.com/quadric/meteor-easy-elasticsearch.git",
